@@ -7,6 +7,8 @@ public class Fruit {
 		System.out.println(" fruites");
 		
 		
+		
+		
 	}
 
 }
